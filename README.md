@@ -18,7 +18,7 @@ https://github.com/LCrespoG/Contenedores.git
 - **Ejercicio 6:** Introducción a Boost Instala la biblioteca Boost en tu entorno de desarrollo CLion. Luego, crea un programa que utilice la función boost::lexical_cast para convertir una cadena de caracteres en un número entero. Asegúrate de manejar cualquier posible excepción que pueda lanzar boost::lexical_cast.
 
 # Propuesta de Solución
-a continuación, se muestra una guía paso a paso de cómo podrías resolver estos ejercicios en CLion:
+### A continuación, se muestra una guía paso a paso de cómo podrías resolver estos ejercicios en CLion:
 
 Ejercicio 1: Vector e Iteradores
 ````
