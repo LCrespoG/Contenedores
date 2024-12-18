@@ -15,11 +15,11 @@ Ejercicio 5: C++ Moderno Implementa un programa que utilice expresiones lambda p
 
 Ejercicio 6: Introducción a Boost Instala la biblioteca Boost en tu entorno de desarrollo CLion. Luego, crea un programa que utilice la función boost::lexical_cast para convertir una cadena de caracteres en un número entero. Asegúrate de manejar cualquier posible excepción que pueda lanzar boost::lexical_cast.
 
-Propuesta de Solución
+# Propuesta de Solución
 a continuación, se muestra una guía paso a paso de cómo podrías resolver estos ejercicios en CLion:
 
 Ejercicio 1: Vector e Iteradores
-
+````
 #include <iostream>
 #include <vector>
 
@@ -32,8 +32,9 @@ int main() {
 
     return 0;
 }
+````
 Ejercicio 2: Contenedores Estándar y Secuencias
-
+````
 #include <iostream>
 #include <list>
 #include <stack>
@@ -49,8 +50,9 @@ int main() {
 
     return 0;
 }
+````
 Ejercicio 3: Algoritmos
-
+````
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -68,8 +70,9 @@ int main() {
 
     return 0;
 }
+````
 Ejercicio 4: Cálculo numérico
-
+````
 #include <iostream>
 #include <valarray>
 
@@ -89,8 +92,9 @@ int main() {
 
     return 0;
 }
+````
 Ejercicio 5: C++ Moderno
-
+````
 #include <iostream>
 #include <vector>
 #include <memory>
@@ -110,8 +114,9 @@ int main() {
 
     return 0;
 }
+````
 Ejercicio 6: Introducción a Boost
-
+````
 #include <iostream>
 #include <boost/lexical_cast.hpp>
 
@@ -127,5 +132,6 @@ int main() {
 
     return 0;
 }
+````
 Cada uno de estos códigos debe ser pegado en la función main() de tu programa en CLion. Asegúrate de tener las librerías necesarias instaladas y correctamente configuradas en tu entorno de CLion. También recuerda que para el último ejercicio necesitas tener instalada la biblioteca Boost.
 
