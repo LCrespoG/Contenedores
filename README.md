@@ -20,7 +20,7 @@ https://github.com/LCrespoG/Contenedores.git
 # Propuesta de Solución
 ### A continuación, se muestra una guía paso a paso de cómo podrías resolver estos ejercicios en CLion:
 
-Ejercicio 1: Vector e Iteradores
+**Ejercicio 1:** Vector e Iteradores
 ````
 #include <iostream>
 #include <vector>
@@ -35,7 +35,7 @@ int main() {
     return 0;
 }
 ````
-Ejercicio 2: Contenedores Estándar y Secuencias
+**Ejercicio 2:** Contenedores Estándar y Secuencias
 ````
 #include <iostream>
 #include <list>
@@ -53,7 +53,7 @@ int main() {
     return 0;
 }
 ````
-Ejercicio 3: Algoritmos
+**Ejercicio 3:** Algoritmos
 ````
 #include <iostream>
 #include <vector>
@@ -73,7 +73,7 @@ int main() {
     return 0;
 }
 ````
-Ejercicio 4: Cálculo numérico
+**Ejercicio 4:** Cálculo numérico
 ````
 #include <iostream>
 #include <valarray>
@@ -95,7 +95,7 @@ int main() {
     return 0;
 }
 ````
-Ejercicio 5: C++ Moderno
+**Ejercicio 5:** C++ Moderno
 ````
 #include <iostream>
 #include <vector>
@@ -117,7 +117,7 @@ int main() {
     return 0;
 }
 ````
-Ejercicio 6: Introducción a Boost
+**Ejercicio 6:** Introducción a Boost
 ````
 #include <iostream>
 #include <boost/lexical_cast.hpp>
