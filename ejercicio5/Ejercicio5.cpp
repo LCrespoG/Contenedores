@@ -4,7 +4,8 @@
 #include <memory>
 #include <algorithm> // std::for_each
 
-void Ejercicio5() {
+void Ejercicio5()
+{
     // Lambda que calcula el cuadrado de un número
     auto cuadrado = [](int num) { return num * num; };
     std::cout << "Cuadrado de 5: " << cuadrado(5) << std::endl;
@@ -20,3 +21,4 @@ void Ejercicio5() {
     // Uso de punteros inteligentes
     std::shared_ptr<int> ptr = std::make_shared<int>(10);
     std::cout << "Valor apuntado por ptr: " << *ptr << std::endl;
+}
